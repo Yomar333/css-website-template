@@ -19,7 +19,7 @@ export default function Home({ setTitle }) {
     return (
         <>
             <HomeHero
-                title="Your Name"
+                title="omar"
                 text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies cursus risus sit amet cursus. Aliquam consequat sollicitudin auctor. Aliquam diam lorem, eleifend at blandit et, suscipit sit amet ante. Nullam a tincidunt augue, gravida dictum est. Vestibulum gravida quis tellus vitae posuere."
                 imageSrc={profilePic}
             />
